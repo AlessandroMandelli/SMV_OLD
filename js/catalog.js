@@ -1,0 +1,156 @@
+/** Generato da assets/beni.json. */
+export const ASSETS = [
+  {
+    "id": "c01",
+    "label": "Cappella 01",
+    "kind": "chapel",
+    "number": 1,
+    "x": 65.51257300698458,
+    "y": 79.1408729024962,
+    "fixed": {}
+  },
+  {
+    "id": "c02",
+    "label": "Cappella 02",
+    "kind": "chapel",
+    "number": 2,
+    "x": 72.68714390278781,
+    "y": 69.50845361383881,
+    "fixed": {}
+  },
+  {
+    "id": "c03",
+    "label": "Cappella 03",
+    "kind": "chapel",
+    "number": 3,
+    "x": 78.68463005404021,
+    "y": 60.845571227075844,
+    "fixed": {}
+  },
+  {
+    "id": "c04",
+    "label": "Cappella 04",
+    "kind": "chapel",
+    "number": 4,
+    "x": 88.3815522827854,
+    "y": 66.21562970230353,
+    "fixed": {}
+  },
+  {
+    "id": "c05",
+    "label": "Cappella 05",
+    "kind": "chapel",
+    "number": 5,
+    "x": 86.92432910720737,
+    "y": 50.96699295669386,
+    "fixed": {}
+  },
+  {
+    "id": "c06",
+    "label": "Cappella 06",
+    "kind": "chapel",
+    "number": 6,
+    "x": 68.98771958544076,
+    "y": 59.72233225538498,
+    "fixed": {}
+  },
+  {
+    "id": "c07",
+    "label": "Cappella 07",
+    "kind": "chapel",
+    "number": 7,
+    "x": 48.97731420851397,
+    "y": 57.92204874108611,
+    "fixed": {}
+  },
+  {
+    "id": "c08",
+    "label": "Cappella 08",
+    "kind": "chapel",
+    "number": 8,
+    "x": 50.01412393500121,
+    "y": 48.058701858339056,
+    "fixed": {}
+  },
+  {
+    "id": "c09",
+    "label": "Cappella 09",
+    "kind": "chapel",
+    "number": 9,
+    "x": 49.033186660796005,
+    "y": 42.16553012363638,
+    "fixed": {}
+  },
+  {
+    "id": "c10",
+    "label": "Cappella 10",
+    "kind": "chapel",
+    "number": 10,
+    "x": 48.80892068205082,
+    "y": 34.7950461509754,
+    "fixed": {}
+  },
+  {
+    "id": "c11",
+    "label": "Cappella 11",
+    "kind": "chapel",
+    "number": 11,
+    "x": 57.385030463481456,
+    "y": 44.62740080792859,
+    "fixed": {}
+  },
+  {
+    "id": "c12",
+    "label": "Cappella 12",
+    "kind": "chapel",
+    "number": 12,
+    "x": 61.644755163174366,
+    "y": 49.08969698965409,
+    "fixed": {}
+  },
+  {
+    "id": "c13",
+    "label": "Cappella 13",
+    "kind": "chapel",
+    "number": 13,
+    "x": 62.79388604136561,
+    "y": 41.08840822959816,
+    "fixed": {}
+  },
+  {
+    "id": "c14",
+    "label": "Cappella 14",
+    "kind": "chapel",
+    "number": 14,
+    "x": 59.1507222611091,
+    "y": 30.825184153545816,
+    "fixed": {}
+  },
+  {
+    "id": "arco1",
+    "label": "Primo Arco, Arco della Madonna del Rosario",
+    "kind": "arch",
+    "number": 1,
+    "x": 59.4,
+    "y": 83,
+    "fixed": {}
+  },
+  {
+    "id": "arco2",
+    "label": "Secondo Arco, Arco di San Carlo",
+    "kind": "arch",
+    "number": 2,
+    "x": 79.7,
+    "y": 53.7,
+    "fixed": {}
+  },
+  {
+    "id": "arco3",
+    "label": "Terzo Arco, Arco di Sant’Ambrogio",
+    "kind": "arch",
+    "number": 3,
+    "x": 52.9,
+    "y": 39.5,
+    "fixed": {}
+  }
+];
