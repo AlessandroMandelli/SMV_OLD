@@ -1,0 +1,26 @@
+{
+  "id": "./",
+  "name": "Schede Restauro — Sacro Monte di Varese",
+  "short_name": "Schede Restauro",
+  "description": "Ispezione, manutenzione e azioni preventive per cappelle e archi del Sacro Monte di Varese",
+  "lang": "it",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#15568d",
+  "icons": [
+    {
+      "src": "./assets/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./assets/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
